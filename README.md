@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @dinarosita
-- 🌱 I’m currently learning html, css, and javascript
+- 🌱 Current learning: ReactJS
+- 🌱 Learned: html, css, and javascript
 
 
 <!---
